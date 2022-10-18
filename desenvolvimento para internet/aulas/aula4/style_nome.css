@@ -1,0 +1,30 @@
+.cor1{ background-color: red; }
+.cor2{ background-color: green; }
+.cor3{ background-color: blue; }
+.cor4{ background-color: yellow; }
+.cor5{ background-color: grey; }
+.cor6{
+    background-color: black;
+    color: white;
+}
+
+.fundo {
+    background-color: pink;
+}
+
+/* 
+cor Hexadecimal
+00 -----   FF
+00        255
+
+         #RRGGBB  
+Vermelho #FF0000
+AZUL     #0000FF
+Verde    #00FF00
+
+Branco   #FFFFFF
+Preto    #000000
+
+
+
+*/
